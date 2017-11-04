@@ -1,0 +1,23 @@
+{
+  "name": "gatsby-tutorial",
+  "private": true,
+  "description": "Gatsby default starter",
+  "author": "Kostas Bariotis <konmpar@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gatsby": "^1.9.73",
+    "gatsby-link": "^1.6.22",
+    "gatsby-plugin-react-helmet": "^1.0.8"
+  },
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --trailing-comma es5 --no-semi --single-quote --write 'src/**/*.js'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "bootstrap-sass": "^3.3.7",
+    "gatsby-plugin-sass": "^1.0.12",
+    "prettier": "^1.7.4"
+  }
+}

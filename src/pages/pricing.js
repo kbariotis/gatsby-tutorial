@@ -1,11 +1,11 @@
 import React from 'react'
 import Link from 'gatsby-link'
 
-import client1Img from '../assets/img/client1.png'
-import client3Img from '../assets/img/client3.png'
-import client2Img from '../assets/img/client2.png'
-import client4Img from '../assets/img/client4.png'
-import client5Img from '../assets/img/client5.png'
+import client1Img from '../img/client1.png'
+import client3Img from '../img/client3.png'
+import client2Img from '../img/client2.png'
+import client4Img from '../img/client4.png'
+import client5Img from '../img/client5.png'
 
 const Pricing = () => (
   <div>

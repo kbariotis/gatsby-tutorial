@@ -1,9 +1,9 @@
 import React from 'react'
 import Link from 'gatsby-link'
 
-import appStoreImg from '../assets/img/app-store.png'
-import googlePlayImg from '../assets/img/google-play.png'
-import phoneImg from '../assets/img/phone.png'
+import appStoreImg from '../img/app-store.png'
+import googlePlayImg from '../img/google-play.png'
+import phoneImg from '../img/phone.png'
 
 class IndexPage extends React.Component {
 
